@@ -1,2 +1,1 @@
-# MYNOTE
-Created with CodeSandbox
+
